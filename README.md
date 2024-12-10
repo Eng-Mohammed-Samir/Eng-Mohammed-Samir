@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Mohammed Samir Abdelazim.
 - I have a bachelor degree in Mechatronics Engineering.
 - 👀 I’m interested in Software Testing and QA.
-- 🌱 I’m currently learning API Testing, Git and Github
+- 🌱 I’m currently learning API Testing, Git and Github.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-samir-2a6544243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) & [CV](https://drive.google.com/file/d/1RdtTOG2YGn-1ndLbLbXJFl-0SG9LP7eq/view?usp=drivesdk).
