@@ -3,4 +3,4 @@
 - 👀 I’m interested in Software Testing and QA.
 - 🌱 I’m currently learning API Testing, Git and Github.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-samir-2a6544243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) & [CV](https://drive.google.com/file/d/1RdtTOG2YGn-1ndLbLbXJFl-0SG9LP7eq/view?usp=drivesdk).
-- ✨ Here are some Software Testing related resources and materials that i made and gatherd [My own Testing Resources](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8).
+- ✨ Discover a collection of software testing materials that I’ve personally created and gathered to enhance learning and application [My own Testing Resources](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8).
