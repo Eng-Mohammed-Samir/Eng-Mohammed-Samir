@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Mohammed Samir Abdelazim.
+# 👋 Hi, My name is Mohammed Samir Abdelazim.<br>
 #### - ✨ I have a bachelor degree in Mechatronics Engineering.
 #### - ✨ scince March 2024, i have been working as a teaching assistance in the faculty of engineering at Benha university.
 #### - 👀 Driven by my passion for software, i decided to pursue a career in Software Testing. So i started by building a solid foundation through ISTQB foundation level certificate. Following this, i enhanced my skills in Manual and API Testing through coursework and hands-on practice with various projects.
