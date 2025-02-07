@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Mohammed Samir Abdelazim. [![CV](https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://drive.google.com/file/d/16rJjLIORWIEkJaHors_hhjPu7yKGznHV/view)
+# 👋 Hi, My name is Mohammed Samir Abdelazim. [![CV](https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge)](https://drive.google.com/file/d/16rJjLIORWIEkJaHors_hhjPu7yKGznHV/view)
 
 **✨ I have a bachelor degree in Mechatronics Engineering.**
 
@@ -8,7 +8,7 @@
 
 **🌱 Most recently, i am expanding my expertise by studying Automtion Testing using Selenium web driver and TestNG framework.**
 
-**✨ Discover [My own collection of software testing materials](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8) that I’ve personally created and gathered to enhance learning and application.**
+**✨ Discover My own collection of software testing materials that I’ve personally created and gathered to enhance learning and application.  [![collection](https://img.shields.io/badge/collection-%230077B5.svg?style=for-the-badge)](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8)**
 
 ---
 
@@ -17,11 +17,9 @@
 
 ---
 
-## - 📫 How to reach me:
+# 📫 Reach me:
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/mohammed-samir-2a6544243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-samir-2a6544243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-  
-[![email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.samir22422@gmail.com)
 
 ---
 
