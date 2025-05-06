@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Mohammed Samir Abdelazim. [![CV]([https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge)](https://drive.google.com/file/d/1Q2IOPj58Rqq8NK9YEetAAdy0RuMiZna_/view](https://drive.google.com/file/d/1DpqsKeQMZJ_SN-jHg2eTLDQGwmH8UQKW/view))]
+# 👋 Hi, My name is Mohammed Samir Abdelazim. [![CV]([https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge)](https://drive.google.com/file/d/1Q2IOPj58Rqq8NK9YEetAAdy0RuMiZna_/view](https://drive.google.com/file/d/1DpqsKeQMZJ_SN-jHg2eTLDQGwmH8UQKW/view)
 
 **✨ I have a bachelor degree in Mechatronics Engineering.**
 
