@@ -18,7 +18,7 @@
 ---
 
 # 📫 Reach me:
-[![CV](https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge)](https://drive.google.com/file/d/1VBuhdkG8sT7hoF3CpQpl0W9zLLiVCfm6/view).
+[![CV](https://img.shields.io/badge/CV-%230077B5.svg?style=for-the-badge)](https://drive.google.com/file/d/1Vdc86gP_Y2-vKSEMfuR0lZLBIfWFq66J/view?usp=drivesdk)
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-samir-2a6544243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-samir-2a6544243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 
