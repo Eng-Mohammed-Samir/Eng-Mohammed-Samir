@@ -2,11 +2,11 @@
 
 **✨ I have a bachelor degree in Mechatronics Engineering.**
 
-**✨ scince March 2024, i have been working as a teaching assistance in the faculty of engineering at Benha university.**
+**✨ I worked as a teaching assistance in the faculty of engineering at Benha university from March 2024 till july 2025. Now, I work as a junior software QC Engineer.**
 
 **👀 Driven by my passion for software, i decided to pursue a career in Software Testing. So i started by building a solid foundation through ISTQB foundation level certificate. Following this, i enhanced my skills in Manual and API Testing through coursework and hands-on practice with various projects.**
 
-**🌱 Most recently, i am expanding my expertise by studying Automtion Testing using Selenium web driver and TestNG framework.**
+**🌱 Most recently, i am expanding my expertise by studying Automtion Testing using Selenium web driver, TestNG and cucumber frameworks.**
 
 **✨ Discover My own collection of software testing materials that I’ve personally created and gathered to enhance learning and application.  [![collection](https://img.shields.io/badge/collection-%230077B5.svg?style=for-the-badge)](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8)**
 
