@@ -1,12 +1,27 @@
-# 👋 Hi, My name is Mohammed Samir Abdul-Azim. 
+# 👋 Hi, I'm Mohammed Samir Abdul-Azim
+## Software QA/QC Engineer | ISTQB CTFL Certified
+I am a Software QA/QC Engineer with hands-on experience in manual testing, API testing, integration testing, regression testing, UAT, and localization testing across web and mobile applications and web automation testing.
 
-**✨ I have a bachelor degree in Mechatronics Engineering.**
+## 🔍 What I Do
+- Design and execute test cases for web and mobile applications
+- Perform functional, regression, smoke, sanity, UAT, exploratory, and localization testing
+- Validate APIs using Postman, Newman, and Swagger
+- Report clear and reproducible defects with proper severity, priority, evidence, and business impact
+- Review requirements, user stories, acceptance criteria, and UI/UX designs
+- Collaborate with developers, product teams, designers, and business stakeholders
+- Use AI-assisted testing workflows to support test reviews, regression analysis, QA documentation, and automation planning
 
-**✨ I worked as a teaching assistance in the faculty of engineering at Benha university from March 2024 till july 2025. Now, I work as a junior software QC Engineer.**
+## 🛠️ Tools & Technologies
+**Testing:** Manual Testing, API Testing, Regression Testing, UAT, Exploratory Testing, Localization Testing  
+**API Tools:** Postman, Newman, Swagger  
+**Test Management:** Jira, Azure DevOps, Trello, TestRail  
+**Automation:** Java, Selenium WebDriver, TestNG, Cucumber, Page Object Model  
+**Version Control:** Git, GitHub  
+**Methodologies:** Agile/Scrum, SDLC, STLC, Bug Life Cycle  
 
-**👀 Driven by my passion for software, i decided to pursue a career in Software Testing. So i started by building a solid foundation through ISTQB foundation level certificate. Following this, i enhanced my skills in Manual and API Testing through coursework and hands-on practice with various projects.**
+## 🌱 Currently Improving
+I am continuously improving my automation testing skills using Java, Selenium WebDriver, TestNG, Cucumber, and the Page Object Model, while also exploring AI-assisted QA workflows to make testing smarter and more efficient.
 
-**🌱 Most recently, i am expanding my expertise by studying Automtion Testing using Selenium web driver, TestNG and cucumber frameworks.**
 
 **✨ Discover My own collection of software testing materials that I’ve personally created and gathered to enhance learning and application.  [![collection](https://img.shields.io/badge/collection-%230077B5.svg?style=for-the-badge)](https://drive.google.com/drive/folders/1oi7rJa6Dkw0dcI7mcj71mTseJrfbgns8)**
 
